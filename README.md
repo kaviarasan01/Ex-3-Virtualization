@@ -1,4 +1,4 @@
-**Exp 2 : ORACLE-VM-VIRTUAL-BOX-INSTALLATION--**
+#**Exp 3 : ORACLE-VM-VIRTUAL-BOX-INSTALLATION--**
      **AIM:**
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
 **EQUIPMENTS REQUIRED:**
@@ -49,7 +49,7 @@ For Windows:
 ## Step 6: Select Hard Disk File Type
 1.	Choose VDI (VirtualBox Disk Image).
 2.	Click Next.
-##Step 7: Storage on Physical Hard Disk
+## Step 7: Storage on Physical Hard Disk
 1.	Select Dynamically allocated (so the disk will grow as needed).
 2.	Click Next.
 ## Step 8: Allocate Storage Space
